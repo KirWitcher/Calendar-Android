@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Calendar" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#131719</item>
+        <item name="android:colorAccent">#A8E9CC</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.Calendar.Picker" parent="android:Theme.Material.Dialog.Alert">
+        <item name="android:colorAccent">#A8E9CC</item>
+        <item name="android:colorBackground">#202628</item>
+    </style>
+</resources>
+
