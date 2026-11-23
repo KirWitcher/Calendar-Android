@@ -36,4 +36,3 @@ Version 1.0.9 passed release compilation, Android lint, and 10 JVM tests. UI beh
 ## Data source
 
 Country holiday data is provided by [Nager.Date](https://nagerholidays.com/api).
-
